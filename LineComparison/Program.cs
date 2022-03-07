@@ -10,7 +10,7 @@ namespace LineComparisonProgram
             Console.WriteLine("welcome to linecomparision problems");
             Line_comparison line = new Line_comparison();
             line.length_line();
-            line.function_check();
+            line.Comparelines();
             Console.ReadLine();
         }
     }
